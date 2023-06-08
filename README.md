@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Sylendra, a full-time Full-stack/DevOps freelancer👨‍💻 working remotely since 2015 🚀</div>  
   
 
