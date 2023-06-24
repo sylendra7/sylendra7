@@ -1,4 +1,4 @@
-### <div align="center">I'm Sylendra, Full-stack/DevOps freelancer👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Sylendra, Full-stack/DevOps engineer👨‍💻 working remotely since 2015 🚀</div>  
   
 
   
